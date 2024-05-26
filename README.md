@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Ekaterina
-- 👀 I’m studying Data Science right now... Jupiter, Pandas, mathematics 
+- 👀 I’m studying Data Science right now... [Jupiter, Pandas, mathematics ](https://github.com/kora21/data_analysis/blob/main/real_estate_data.ipynb)
 - 🌱 I am Python developer 
 - 💞️ I’m looking to collaborate on projects and I open source contributor
 - 📫 How to reach me; kattya.taras@gmail.com
